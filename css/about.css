@@ -131,7 +131,6 @@ article::-webkit-scrollbar{
 
 #description{
     width: 200px;
-    
     height: max-content;
     display: block;
     margin-left: auto;
@@ -145,5 +144,4 @@ article::-webkit-scrollbar{
     font-size: 20px;
     color: #E27D60;
     font-weight: 700;
-    
 }
