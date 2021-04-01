@@ -106,7 +106,6 @@ h2{
     font-size: 30px;
     width: 100%;
     max-width: 280px;
-    
     margin: 10px auto;
     border: 4px double gray;
 }
@@ -121,12 +120,10 @@ img{
     box-shadow: 3px 3px 20px grey;
 }
 article{
-    
     width: 30%;
     min-width: 280px;
     overflow: scroll;
-    margin: 0 auto;
-    
+    margin: 0 auto; 
 }
 article::-webkit-scrollbar{
     display: none;
